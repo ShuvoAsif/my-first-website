@@ -12,6 +12,7 @@ h1 span {
 
 section {
     height: 500px;
+    padding-top: 100px;
     padding-bottom: 150px;
 }
 
@@ -24,4 +25,24 @@ section {
 
 .half-width img {
     width: 100%;
+}
+
+#mid-area {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.button {
+    text-decoration: none;
+    background: linear-gradient(45deg, blue, skyblue);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+
+#recip {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
 }
