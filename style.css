@@ -65,7 +65,12 @@ section {
     margin-bottom: 100px;
     display: flex;
     box-shadow: 5px 7px 40px grey;
-    align-self: center;
+}
+
+.area {
+    width: 20px;
+    width: 100%;
+    padding-left: 100px;
 }
 
 footer {
